@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vivek-sharma4&label=Profile%20views&color=0e75b6&style=flat" alt="vivek-sharma4" /> </p>
 
 
-- 🔭 I’m have worked on [Data Analytics in Mental Healthcare](https://github.com/vivek-sharma4/MentaIllness)
+- 🔭 I’ve worked on [Data Analytics in Mental Healthcare](https://github.com/vivek-sharma4/MentaIllness)
 - 🌱 I’m currently learning **Deep Learning, NLP**
 - 💬 Ask me about **Python, Machine Learning, Feature Engineering**
 - 📫 How to reach me **viveksharma432002@gmail.com**
