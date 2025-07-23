@@ -5,7 +5,7 @@
 
 - 🔭 I’ve worked on [Data Analytics in Mental Healthcare](https://github.com/vivek-sharma4/MentaIllness)
 - 🌱 I’m currently working in **Neo Technology**
-- 💬 Ask me about **C#, .Net, Python, Machine Learning, Feature Engineering**
+- 💬 Ask me about **C#, .Net, Python, Machine Learning**
 - 📫 How to reach me **viveksharma432002@gmail.com**
 
 <div> <a href="https://www.linkedin.com/in/vivek-kumar-sh" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
