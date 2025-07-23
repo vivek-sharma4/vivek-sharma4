@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Vivek Kumar</h1>
-<h3 align="center">Aspiring Data Scientist</h3>
+<h3 align="center">Trainee Developer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vivek-sharma4&label=Profile%20views&color=0e75b6&style=flat" alt="vivek-sharma4" /> </p>
 
 
 - 🔭 I’ve worked on [Data Analytics in Mental Healthcare](https://github.com/vivek-sharma4/MentaIllness)
 - 🌱 I’m currently working in **Neo Technology**
-- 💬 Ask me about **Python, Machine Learning, Feature Engineering, C#, .Net**
+- 💬 Ask me about **C#, .Net, Python, Machine Learning, Feature Engineering**
 - 📫 How to reach me **viveksharma432002@gmail.com**
 
 <div> <a href="https://www.linkedin.com/in/vivek-kumar-sh" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
